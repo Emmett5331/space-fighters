@@ -1,5 +1,6 @@
 {
     "name": "Dungeon Crawl",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
